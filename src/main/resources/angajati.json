@@ -1,0 +1,38 @@
+[
+  {
+    "nume": "Vlad",
+    "postul": "sef inginer",
+    "data_angajarii": "2022-04-03",
+    "salariul": 6000.0
+  },
+  {
+    "nume": "Ana",
+    "postul": "director de proiect",
+    "data_angajarii": "2022-04-12",
+    "salariul": 8000.0
+  },
+  {
+    "nume": "Carina",
+    "postul": "arhitect",
+    "data_angajarii": "2022-07-22",
+    "salariul": 7000.0
+  },
+  {
+    "nume": "Ionut",
+    "postul": "instalator",
+    "data_angajarii": "2012-03-11",
+    "salariul": 2500.0
+  },
+  {
+    "nume": "Stela",
+    "postul": "secretara",
+    "data_angajarii": "2023-07-25",
+    "salariul": 3000.0
+  },
+  {
+    "nume": "Ion",
+    "postul": "programator",
+    "data_angajarii": "2023-07-25",
+    "salariul": 4500.0
+  }
+]
